@@ -1,0 +1,21 @@
+{
+  "name": "port",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build" : "parcel build index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cssnano": "^4.1.10",
+    "sass": "^1.26.3"
+  },
+  "dependencies": {
+    "aos": "^2.3.4",
+    "jump.js": "^1.0.2"
+  }
+}
